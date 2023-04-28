@@ -1,6 +1,10 @@
 # Home Security System
 ### https://youtu.be/yhbOVKLq0LU
 
+[Pitch](https://docs.google.com/presentation/d/1Ki1joUJ658LEdbglzTdTsbaJhuyITrN83CMFTygeEmg/edit#slide=id.g22bb7a2462c_1_0)
+
+[Inspired by](https://www.youtube.com/shorts/TzREMG4JpRA)
+
 A home security system that detects motion, triggers an audio alarm and flashing red lights, and sends a signal to another device (built by [Olsen Budanur](https://github.com/olsenbudanur/nerf_pi_security)) that will shoot a nerf gun, take a photo of the intruder, and send the photo via SMS.
 Flashing lights and alarm can be turned off by typing in the right password.
 
