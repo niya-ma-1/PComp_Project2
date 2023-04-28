@@ -19,6 +19,10 @@ Final product
 <img src="final_project2.jpeg"  width="50%" height="50%"><br>
 
 
+LED Light Strip Circuit
+<img src="light_strip_circuit.jpeg"  width="50%" height="50%"><br>
+
+
 Milestone # 1
 1. Be able to send signals from the local network | internet.
 This part didn't take long because Olsen is experienced with sockets. Basically, we send a signal from my Raspberry Pi and his Raspberry Pi socket receives it.
