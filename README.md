@@ -15,11 +15,11 @@ This project could be useful to anyone wanting to enhance their home security sy
 
 
 
-Final product
+Final product<br>
 <img src="final_project2.jpeg"  width="50%" height="50%"><br>
 
 
-LED Light Strip Circuit
+LED Light Strip Circuit<br>
 <img src="light_strip_circuit.jpeg"  width="50%" height="50%"><br>
 
 
