@@ -8,14 +8,15 @@ Flashing lights and alarm can be turned off by typing in the right password.
 1.LED Light Strip: https://dordnung.de/raspberrypi-ledstrip/
 2.Shock sensor: https://iot-guider.com/raspberrypi/interfacing-knock-sensor-module-ky-031-raspberry-pi/
 
-Creator statement (300-600 words) discussing the tech and its useful/lessness. 
-The documentation: Code, images, video, text, notes of the work itself
-In-class demonstration
-
 
 Creator Statement:
-This project is a primary prototype for a holistic home security system. We designed the components based on real life expectation and aimed for it to have as much utility as possible. For example, we originally placed the password input outside the door, but then discovered that it would be easy for the intruder to disconnect the keypad and not trigger the alarm system. A stretch goal for this project was to build a knock sensor that is placed on the inside of the door, and the visitor will have to knock in the correct pattern to disarm the systems. The materials I used were Raspberry Pi, LED light strip, shock sensor/vibration sensor, PIR motion sensor and a DIY audio system. I purchased [IRLZ34N MOSFETs](https://www.amazon.com/gp/product/B08L8S3154/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) from amazon as a switch to control the LED lights. 
+This project is a primary prototype for a holistic home security system. We designed the components based on real life expectation and aimed for it to have as much utility as possible. For example, we originally placed the password input outside the door, but then discovered that it would be easy for the intruder to disconnect the keypad and not trigger the alarm system. A stretch goal for this project was to build a knock sensor that is placed on the inside of the door, and the visitor will have to knock in the correct pattern to disarm the systems. The materials I used were Raspberry Pi, LED light strip, shock sensor/vibration sensor, PIR motion sensor and a DIY audio system. I purchased [IRLZ34N MOSFETs](https://www.amazon.com/gp/product/B08L8S3154/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) from amazon as a switch to control the LED lights. I originally used a vibration sensor which is more sensitive than a shock sensor, but it quickly broke and I had to switch to a shock sensor instead.
 This project could be useful to anyone wanting to enhance their home security system.
+
+
+
+Final product
+<img src="final_project2.jpeg"  width="50%" height="50%"><br>
 
 
 Milestone # 1
@@ -31,6 +32,8 @@ I set up 4 buttons to act like a keypad and built a password-input system. I was
 
 3. Be able to play alarm audio
 Playing alarm audio was very easy with the amplifier and speaker circuit I built for the previous project.
+
+<img src="project2_img1.jpeg"  width="50%" height="50%"><br>
 
 Milestone # 3
 1. Test the whole system
